@@ -1,0 +1,1 @@
+In this example, the SharedResource class represents the resource that needs mandatory locking. It uses both write and read locks to control access. The writer_thread function simulates a thread that writes data to the resource, and the reader_thread function simulates a thread that reads data from the resource.

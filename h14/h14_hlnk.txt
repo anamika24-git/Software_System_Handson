@@ -1,0 +1,1 @@
+lstat and stat are both system calls in Unix-like operating systems, including Linux, used to retrieve information about files. They provide metadata about files such as permissions, ownership, size, timestamps, and more. However, they differ in their behavior when dealing with symbolic links.

@@ -1,0 +1,1 @@
+..old file descriptor for dup..New file descriptor using dup..old file descriptor for dup2..New file descriptor using dup2..old file descriptor for fcntl..New file descriptor using fcntl
